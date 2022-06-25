@@ -1,3 +1,2 @@
 #!/bin/bash
-- cd.html
-+ cp -u *.html ..?
++ sudo ln -s /bin/ls_ls_
